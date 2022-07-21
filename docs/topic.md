@@ -1,7 +1,4 @@
-# PlanningOptimization
-Planning Optimization || IT4818 || 20202 || HUST
-
-## Project 15. Xếp thời khóa biểu
+# Project 15. Xếp thời khóa biểu
 
 - Có N lớp 1,2,...N cần được xếp thời khóa biểu. Mỗi lớp i có 
 	t(i) 	: số tiết, 
